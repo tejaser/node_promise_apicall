@@ -9,6 +9,8 @@
   "author": "Tejas",
   "license": "ISC",
   "dependencies": {
-    "request": "^2.83.0"
+    "axios": "^0.17.1",
+    "request": "^2.83.0",
+    "yargs": "^10.0.3"
   }
 }
